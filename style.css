@@ -1,0 +1,16 @@
+.content{
+    display: flex;
+    margin: 10px;
+}
+.menu {
+
+    margin-right: 300px;
+
+}
+nav{
+   
+    position: fixed;
+    margin-right: 20px;
+    padding: 20px;
+    border: 1px solid #000000;
+}
